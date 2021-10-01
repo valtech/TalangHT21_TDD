@@ -13,7 +13,7 @@
   * `./run_minicover.sh`
 
 ## The assignment
-You are to implement FizzBuzz using TDD methodology.
+You are to implement FizzBuzz using TDD methodology. If you are unfamiliar with FizzBuzz, here is an explanation: https://en.wikipedia.org/wiki/Fizz_buzz
 
 The rules are:
 * You have to write the test first using the Red-Green-Refactor process
